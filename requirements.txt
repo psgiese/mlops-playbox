@@ -3,3 +3,5 @@ pylint
 pytest
 pytest-cov
 jupyter
+jupyter_server
+jupyterlab
