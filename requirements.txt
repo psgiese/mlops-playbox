@@ -5,3 +5,4 @@ pytest-cov
 jupyter
 jupyter_server
 jupyterlab
+poetry
